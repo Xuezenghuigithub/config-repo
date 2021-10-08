@@ -30,4 +30,4 @@ eureka:
       defaultZone: http://localhost:10086/eureka
 
 # 自定义配置
-name: userservice-default
+name: userservice-default-测试自动刷新

@@ -31,3 +31,4 @@ eureka:
 
 # 自定义配置
 name: userservice-default-测试自动刷新
+password: '{cipher}5ee50c6a0878d136d0d5b2c870dcaae317809af87daf76a1060a85618937610f'
